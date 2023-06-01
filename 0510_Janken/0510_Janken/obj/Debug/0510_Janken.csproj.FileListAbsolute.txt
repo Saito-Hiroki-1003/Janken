@@ -1,0 +1,8 @@
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\bin\Debug\0510_Janken.exe.config
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\bin\Debug\0510_Janken.exe
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\bin\Debug\0510_Janken.pdb
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\obj\Debug\0510_Janken.csproj.AssemblyReference.cache
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\obj\Debug\0510_Janken.csproj.SuggestedBindingRedirects.cache
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\obj\Debug\0510_Janken.csproj.CoreCompileInputs.cache
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\obj\Debug\0510_Janken.exe
+C:\Users\齋藤　廣騎\source\repos\0510_Janken\0510_Janken\obj\Debug\0510_Janken.pdb
